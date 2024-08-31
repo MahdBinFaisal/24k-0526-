@@ -1,6 +1,6 @@
-#Mahd bin Faisal's Repo 
-##For Programing Fundamentals 
-###Fall 2024 Semester 
+# Mahd bin Faisal's Repo 
+## For Programing Fundamentals 
+### Fall 2024 Semester 
 
 Hello My name is Mahd bin Faisal 
 - I did my A levels from 2023-2024
